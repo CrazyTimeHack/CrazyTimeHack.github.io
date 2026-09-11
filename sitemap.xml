@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://YOUR-USERNAME.github.io/</loc>
-  </url>
+<url><loc>https://crazytimehack.github.io/</loc></url>
+<url><loc>https://crazytimehack.github.io/italy/</loc></url>
+<url><loc>https://crazytimehack.github.io/germany/</loc></url>
+<url><loc>https://crazytimehack.github.io/india/</loc></url>
+<url><loc>https://crazytimehack.github.io/france/</loc></url>
+<url><loc>https://crazytimehack.github.io/brazil/</loc></url>
 </urlset>
